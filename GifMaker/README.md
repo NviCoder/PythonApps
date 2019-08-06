@@ -1,7 +1,7 @@
 # GifMaker
 
 For this app you sould download the ImageIO library
-**windows**
+- **windows**
 pip install imageio-ffmpeg
 
 For more details:
